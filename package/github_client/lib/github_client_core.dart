@@ -47,24 +47,5 @@ class GithubClient extends GithubClientRaw {
   GithubClientUser get users {
     return GithubClientUser(tokenGithub: token_github);
   }
-
-  invoke({
-    required Map parameters,
-    String? tokenGithub,
-  }) async {
-    //
-    //
-    //
-    //
-    //
-    //
-    //
-    //
-    //
-  }
-
-  request({
-    required Map parameters,
-    String? tokenGithub,
-  }) async {}
+ 
 }

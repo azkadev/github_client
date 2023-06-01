@@ -10,7 +10,7 @@ environment:
 
 dependencies:  
   galaxeus_lib: ^0.0.71
-  github: ^9.14.0
+  http: ^0.13.6
   path: ^1.8.3
 
 dev_dependencies:
